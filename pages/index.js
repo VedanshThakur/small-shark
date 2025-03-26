@@ -1,0 +1,1 @@
+// Home page with animated hero and GSAP scroll logic
